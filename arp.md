@@ -29,7 +29,7 @@
 ## 📘 3. ARP 동작 원리
 
 ### 💡 예시 시나리오
-<img src="./images/How-Does-ARP.png" width=90% /><br>
+<img src="./images/How-Does-ARP-Work.png" width=90% /><br>
 
 * PC A: IP = 192.168.1.10
 * PC B: IP = 192.168.1.20
