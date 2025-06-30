@@ -5,8 +5,8 @@ DHCP를 통한 IP 주소 할당은 “임대”라는 개념을 가지고 있는
 DHCP 클라이언트가 DHCP 서버로부터 IP 주소를 할당(임대) 받는 절차에 대해서 알아 보도록 하겠습니다.
 
 IP 주소 할당(임대) 절차에 사용되는 DHCP 메시지는 아래 그림과 같이 4개의 메시지로 구성되어 있습니다.
+<img src="./images/dhcp_prod.png" width=90% /><br>
 
-[##_Image|kage@dcn6j4/btsDSp8VRMg/AAAAAAAAAAAAAAAAAAAAACJ9nuz6mdBrRVMPXvNDiYYbNqj5_P9FXUskiUNvFGiE/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1751295599&amp;allow_ip=&amp;allow_referer=&amp;signature=QGn16yRYUNmbbCBCdfyBtRtQcA8%3D|CDM|1.3|{"originWidth":700,"originHeight":504,"style":"alignCenter","filename":"Netmanias.2011.12.06-DHCP_Message.gif"}_##]
 
 **1) DHCP Discover**
 
